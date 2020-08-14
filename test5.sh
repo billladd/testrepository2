@@ -1,1 +1,1 @@
-cp /home/etrade/samples2/code test
+cp /home/etrade/samples2/code test 2

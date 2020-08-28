@@ -1,3 +1,3 @@
 test
 etrade 2
-test (Counter: 1)
+test (Counter: 2)
